@@ -38,4 +38,7 @@
         <item name="colorControlHighlight">@color/skip_red_color</item>
     </style>
 
+    <string name="quote_format">\"%s\"</string>
+    <string name="score_format">Current Score: %d</string>
+
 </resources>
